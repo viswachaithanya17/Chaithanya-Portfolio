@@ -60,10 +60,19 @@ export const portfolioItemsByCategory = {
    
   ],
   "Flyers & Cards": [
+    { id: 5,src: "./assets/Flyers/edify school.jpg",alt: "5"},
+    { id:6 ,src: "./assets/Flyers/edify Summer Camp.jpg",alt: "6"},
       { id: 1,src: "./assets/Flyers/20240329_234816.jpg",alt: "1"},
     { id: 2,src: "./assets/Flyers/20250227_140804.jpg",alt: "2"},
     { id: 3,src: "./assets/Flyers/20251210_121327.jpg",alt: "3"},
     { id: 4,src: "./assets/Flyers/invitation banner 2025.jpg",alt: "4"},
+    { id:7 ,src: "./assets/Flyers/panchakarma.jpg",alt: "7"},
+    { id: 8,src: "./assets/Flyers/philes surgery.jpg",alt: "8"},
+    { id: 9,src: "./assets/Flyers/piles painless.jpg",alt: "9"},
+    { id: 10,src: "./assets/Flyers/pistula.jpg",alt: "10"},
+    { id: 11,src: "./assets/Flyers/swarnaamrutha prasana.jpg",alt: "11"},
+    { id: 12,src: "./assets/Flyers/Swarnamrutha prasana camp @May.jpg",alt: "12"},
+    { id: 13,src: "./assets/Flyers/women's day offer.jpg",alt: "13"},
   ],
   "Other Designs": [
     { id: 1, src: "./assets/others/20191127_193510-01.jpeg", alt: "1" },
